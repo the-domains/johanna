@@ -1,0 +1,14 @@
+name: johanna
+layout_spectrum: 0.17072406916467808
+typography_spectrum: 0.10648149491079917
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.0663308110122206
+  lightness: 0.4804853288482329
+  saturation: 0.8123346575155149
+  rhythmicContrast: 0.696973675696819
