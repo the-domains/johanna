@@ -1,6 +1,6 @@
-name: johanna
-layout_spectrum: 0.17072406916467808
-typography_spectrum: 0.10648149491079917
+typography_spectrum: 0.47829113997279266
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -8,7 +8,43 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  brandStrength: 0.0663308110122206
-  lightness: 0.4804853288482329
-  saturation: 0.8123346575155149
-  rhythmicContrast: 0.696973675696819
+  brandStrength: 0.4976674725860357
+  lightness: 0.8243076490568421
+  saturation: 0.3054189320307889
+  rhythmicContrast: 0.9547334230477267
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.5698924441539711
+author:
+  name: 'Johanna '
+  url: ''
+  email: j.pilwarsch@gmail.com
+name: 'even Venus needs a midwife '
+navigation:
+  - name: sommer
+    id: 83ba7a25-25d4-4ce6-98ac-cf7c3fa2fc5b
+    type: content
+  - name: toskany
+    id: 3972600e-c4a1-4c3c-a18a-906e520d3e08
+    type: content
+  - name: herbs
+    id: 50d8456e-b644-4b66-8d24-5219a2e2e223
+    type: content
+  - name: sun
+    id: 1c42c904-4a7b-498e-8d44-4a3e3fc6a7f9
+    type: content
+  - name: autumn
+    id: 0d5a3a80-462c-4255-b52d-bc1b3f1d1974
+    type: content
+title: augenblickdetektivin
+content: []
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:j.pilwarsch@gmail.com'
+    label: briefe
+  - type: external
+    url: 'https://www.instagram.com/johannerli/'
+    label: instagram
