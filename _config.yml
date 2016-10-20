@@ -1,5 +1,6 @@
-layout_spectrum: 0.19290696744548877
 typography_spectrum: 0.5602353673427376
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#908E68'
@@ -11,12 +12,11 @@ color:
   lightness: 0.4089275928509265
   saturation: 0.2135508711024713
   rhythmicContrast: 0.10364345739512604
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.19290696744548877
 author:
   name: 'Johanna '
   url: ''
