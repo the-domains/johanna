@@ -47,9 +47,9 @@ title: augenblicksdetektivin
 content: []
 description: ''
 purpose:
-  - type: contact
-    url: 'mailto:j.pilwarsch@gmail.com'
-    label: briefe
+  - type: internal
+    label: comment
+    item: d6135363-8b5f-4591-9837-20ba96f5db3c
   - type: external
     url: 'https://www.instagram.com/johannerli/'
     label: instagram
