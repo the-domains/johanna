@@ -1,5 +1,6 @@
-layout_spectrum: 0.3164221715028997
 typography_spectrum: 0.9820112376521793
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#939067'
@@ -11,12 +12,11 @@ color:
   lightness: 0.9804773061113929
   saturation: 0.313279466767528
   rhythmicContrast: 0.02774397364227415
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.3164221715028997
 author:
   name: 'Johanna '
   url: ''
@@ -40,7 +40,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a567039-4c6e-4222-9e61-021c391cb1d7.ico
-title: augenblickdetektivin
+title: augenblicksdetektivin
 content: []
 description: ''
 purpose:
