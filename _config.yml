@@ -23,9 +23,6 @@ author:
   email: j.pilwarsch@gmail.com
 name: 'even Venus needs a midwife '
 navigation:
-  - name: sun
-    id: 1c42c904-4a7b-498e-8d44-4a3e3fc6a7f9
-    type: content
   - name: autumn
     id: 0d5a3a80-462c-4255-b52d-bc1b3f1d1974
     type: content
